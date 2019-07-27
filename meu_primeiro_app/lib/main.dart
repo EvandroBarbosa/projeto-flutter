@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Meu primeiro App',
       theme: ThemeData(
         
-        primarySwatch: Colors.amber,
+        primarySwatch: Colors.pink,
       ),
       home: MyHomePage(title: 'Frases do dia'),
     );
