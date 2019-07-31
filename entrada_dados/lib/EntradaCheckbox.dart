@@ -15,7 +15,7 @@ class _EntradaCheckboxState extends State<EntradaCheckbox> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Entrada Checkbox"),
+        title: Text("Entrada de Dados"),
         backgroundColor: Colors.deepPurple,
       ),
       body: Container(
