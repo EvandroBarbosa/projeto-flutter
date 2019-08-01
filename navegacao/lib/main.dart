@@ -41,7 +41,7 @@ class _HomeAppState extends State<HomeApp> {
                 Navigator.push(
                   context, 
                   MaterialPageRoute(
-                    builder: (context) => TelaSegundaria()
+                    builder: (context) => TelaSegundaria(valor: "Evandro Barbosa",)
                   )
                 );
               },
